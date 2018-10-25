@@ -1,0 +1,41 @@
+/*
+* Victoria Corbo
+* October 24, 2018
+* Images of My Favorite Things
+*/
+
+/* The universal selector */
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: azure;
+}
+
+#Softball {
+    width: 400px;
+    height: 200px;
+    float: right;
+}
+#Softball_line {
+    clear: right
+}
+#Sunrise {
+    width: 400px;
+    height: 200px;
+    float: left;
+}
+#Sunrise_line {
+    clear: left;
+}
+#Lucy {
+    width: 400px;
+    height: 300px;
+    float:right;
+}
+#Lucy_line {
+    clear: right;
+}
